@@ -1,2 +1,2 @@
-# solana-hello-world
-Alchemy's Introductory Tutorial for Solana
+# create a web3 solana dapp
+create a web3 solana basic dapp, learning to how to develop dapp on solana
