@@ -1,2 +1,2 @@
-# web3-solana-dapp
-create a web3 solana dapp
+# solana-hello-world
+Alchemy's Introductory Tutorial for Solana
